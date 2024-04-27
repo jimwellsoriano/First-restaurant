@@ -1,0 +1,93 @@
+.fourth-section{
+    background-color: rgb(245, 245, 245);
+    height: 800px;
+    padding-bottom: 40px;
+}
+
+.Latest{
+    font-family: "Dancing Script", cursive;
+    color: rgb(185, 141, 54);
+    font-size: 26px;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+
+.News-Events{
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+}
+
+.AUG{
+    background-color:rgb(185, 141, 54) ;
+    color: white;
+    font-size: 14px;
+    height: 50px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: -45px;
+    margin-right: 10px;
+    margin-left: -20px;
+}
+
+.AUG div{
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 2px;
+}
+
+.title-border{
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.fourth-text-container{
+    background-color: white;
+    padding: 10px;
+    width: 800px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.lorem-ipsum{
+    font-size: 14px;
+    color: rgb(102, 102, 102);
+    line-height: 1.5;
+}
+
+.Wine-Tasting{
+    font-size:25px;
+    font-weight:700;
+    margin-bottom: 5px;
+}
+
+.Saturday-August{
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 5px;
+}
+
+.Read-more a{
+    color:rgb(185, 141, 54)  ;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.Read-more{
+    margin-top: 15px;
+}
+
+.fourth-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

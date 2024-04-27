@@ -1,0 +1,142 @@
+.footer-container{
+    height: 100px;
+    display: flex;
+    background-color: rgb(38, 38, 38);
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.footer-section{
+    height: 00px;
+ 
+}
+
+.footer-container .time{
+    margin-bottom: 10px;
+    color: white;
+    font-size: 14px;
+   
+}
+
+.footer-container1{
+    margin-left: 150px;
+}
+
+.footer-container3{
+    margin-right: 150px;
+}
+
+
+
+.Opening-Time{
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: white;
+
+}
+
+.Newsletter{
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.Subscribe-to-our-newsletter{
+    color: white;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.email-footer{
+    height: 36px;
+    width: 300px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    padding-left: 15px;
+}
+
+.email-footer::placeholder{
+    font-size: 16px;
+    padding-left: 15px;
+}
+
+.SUBCRIBE{
+    color: white;
+    border: none;
+    background-color: rgb(185, 141, 54);
+    font-family: sans-serif, arial;
+    font-weight: 700;
+    padding: 12px 30px;
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    transition: background-color 0.60s, color 0.60s;
+    margin-left: 15px;
+}
+
+.SUBCRIBE:hover{
+    background-color: rgb(145, 111, 44);
+}
+
+.footer-icon div{
+    color:rgb(145, 111, 44) ;
+    font-size: 20px;
+     margin-right: 20px;
+    height: 35px;
+    width: 35px;
+    background-color: rgba(255,255,255,0.05);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+
+}
+
+.footer-icon{
+    display: flex;
+}
+
+.last-footer{
+    padding: 20px;
+    background-color: rgb(26, 26, 26);
+    border-top: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.last-footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.last-footer .Privacy-container{
+    display: flex;
+    align-items: center;
+}
+
+.last-footer hr{
+    width: 1px;
+    height: 15px;
+    background-color: white;
+    border: none;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.last-footer a:hover{
+    text-decoration: underline;
+}
+
+.Template-Copyright{
+    font-size: 14px;
+    color: white;
+    margin-top: 5px;
+}

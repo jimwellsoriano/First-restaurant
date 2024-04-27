@@ -1,0 +1,227 @@
+.third-section{
+    padding-bottom: 60px;
+}
+
+.third-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.discover{
+    font-family: "Dancing Script", cursive;
+    color: rgb(185, 141, 54);
+    font-size: 26px;
+    margin-top: 70px;
+}
+
+.our-menu{
+     font-weight: 700;
+     font-size: 28px;
+     margin-bottom: 10px;
+}
+
+.epicure-will{
+    line-height: 1.5;
+    font-size: 15px;
+    width: 800px;
+    color: rgb(82, 82, 82);
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.button-container button{
+    color: rgb(185, 141, 54);
+    border: 1px solid rgb(185, 141, 54);
+    background-color: white;
+    font-family: sans-serif, arial;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    transition: background-color 0.60s, color 0.60s;
+}
+
+.button-container button:hover{
+    background-color: rgb(185, 141, 54) ;
+    color: white;
+}
+
+.Signature-Dishes{
+    font-family: "Dancing Script", cursive;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.media-1{
+    height: 450px;
+    width: 750px;
+    margin-right: 30px;
+}
+
+.media-1-container{
+    position: relative;
+    display: inline-block
+}
+
+.inside-container{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    bottom: 30px;
+    right: 65px;
+    opacity: 0;
+    transition: opacity 0.50s;
+}
+
+.inside-container:hover{
+    opacity: 1;
+}
+
+.Charbroiled-Sterling{
+    font-family: "Dancing Script", cursive;
+    color: rgb(185, 141, 54);
+    font-size: 22px;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.Description-about{
+    color: white;
+    font-size: 15px;
+    margin-left: 30px;
+}
+
+.img-container{
+    display: flex;
+}
+
+.media-2{
+    height: 350px;
+    width: 350px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.media-1-container2{
+    position: relative;
+    display: inline-block;
+}
+
+.inside-container2{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: -80px;
+    left: 30px;
+    right: 30px;
+    bottom: 130px;
+    opacity: 0;
+    transition: opacity 0.50s;
+    margin-top: 110px;
+}
+
+.inside-container2:hover{
+    opacity: 1;
+}
+
+.media-3{
+    height: 350px;
+    width: 350px;
+    object-fit: cover;
+    object-position: center;
+    margin-top: 110px;
+    margin-right:45px;
+    margin-left: 2px;
+    
+}
+
+.media-1-container3{
+    position: relative;
+    display: inline-block;
+}
+
+.inside-container3{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 30px;
+    right: 80px;
+    bottom: 30px;
+    opacity: 0;
+    transition: opacity 0.50s;
+    margin-top: 150px;
+}
+
+.inside-container3:hover{
+    opacity: 1;
+}
+
+.img-container2{
+    display: flex;
+    margin-top: -90px;
+}
+
+.media-4{
+    height: 350px;
+    width: 350px;
+    object-fit: cover;
+    object-position: center;
+    margin-top: 110px;
+    margin-right:20px;
+}
+
+.media-1-container4{
+    position: relative;
+    display: inline-block;
+}
+
+.inside-container4{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    right: 50px;
+    bottom: 30px;
+    opacity: 0;
+    transition: opacity 0.50s;
+    margin-top: 110px;
+}
+
+.inside-container4:hover{
+    opacity: 1;
+}
+
+.media-1-container5{
+    position: relative;
+    display: inline-block;
+}
+
+.media-5{
+    height: 463px;
+    width: 352px;
+    object-fit: cover;
+    object-position: center;
+    margin-left: 5px;
+}
+
+.inside-container5{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    right: 30px;
+    bottom: 30px;
+    opacity: 0;
+    transition: opacity 0.50s;
+}
+
+.inside-container5:hover{
+    opacity:1;
+}
+
+

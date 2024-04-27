@@ -1,0 +1,12 @@
+div{
+    font-family: sans-serif, arial;
+}
+
+body{
+  height: 3000px;
+  margin: 0;
+}
+
+html{
+  scroll-behavior: smooth;
+}
